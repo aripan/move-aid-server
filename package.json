@@ -1,0 +1,11 @@
+{
+  "name": "moveaid-server",
+  "version": "1.0.0",
+  "description": "server side for a home relocation service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Asad",
+  "license": "ISC"
+}
